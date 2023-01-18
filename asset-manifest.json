@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/katseduard/articles-react-ts/static/css/main.b765b35c.css",
-    "main.js": "/katseduard/articles-react-ts/static/js/main.698d5864.js",
+    "main.js": "/katseduard/articles-react-ts/static/js/main.07e83eaa.js",
     "index.html": "/katseduard/articles-react-ts/index.html",
     "main.b765b35c.css.map": "/katseduard/articles-react-ts/static/css/main.b765b35c.css.map",
-    "main.698d5864.js.map": "/katseduard/articles-react-ts/static/js/main.698d5864.js.map"
+    "main.07e83eaa.js.map": "/katseduard/articles-react-ts/static/js/main.07e83eaa.js.map"
   },
   "entrypoints": [
     "static/css/main.b765b35c.css",
-    "static/js/main.698d5864.js"
+    "static/js/main.07e83eaa.js"
   ]
 }
