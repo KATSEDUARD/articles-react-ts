@@ -4,7 +4,7 @@ import { ArticlePage } from './pages/articlePage/view';
 
 const router = createBrowserRouter([
   { path: 'articles-react-ts/', element: <HomePage/> },
-  { path: '/articles/:articleId', element: <ArticlePage/> }
+  { path: 'articles-react-ts//articles/:articleId', element: <ArticlePage/> }
 ])
 
 function App() {

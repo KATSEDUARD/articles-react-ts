@@ -35,7 +35,7 @@ export const ArticlePage: React.FC = () => {
                             {article?.fullDescription}
                         </div>
                         <div className="card-content-back">
-                            <Link to='/'>
+                            <Link to='articles-react-ts/'>
                                 <Stack
                                     direction="row"
                                     justifyContent="flex-start"
