@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/articles-react-ts/static/css/main.b765b35c.css",
-    "main.js": "/articles-react-ts/static/js/main.698d5864.js",
-    "index.html": "/articles-react-ts/index.html",
-    "main.b765b35c.css.map": "/articles-react-ts/static/css/main.b765b35c.css.map",
-    "main.698d5864.js.map": "/articles-react-ts/static/js/main.698d5864.js.map"
+    "main.css": "/katseduard/articles-react-ts/static/css/main.b765b35c.css",
+    "main.js": "/katseduard/articles-react-ts/static/js/main.698d5864.js",
+    "index.html": "/katseduard/articles-react-ts/index.html",
+    "main.b765b35c.css.map": "/katseduard/articles-react-ts/static/css/main.b765b35c.css.map",
+    "main.698d5864.js.map": "/katseduard/articles-react-ts/static/js/main.698d5864.js.map"
   },
   "entrypoints": [
     "static/css/main.b765b35c.css",
