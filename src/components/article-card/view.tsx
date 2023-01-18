@@ -32,7 +32,7 @@ export const CardArticle: React.FC<{ article: Article, searchRequest: string }> 
                     className="card-date"
                 >
                     <CalendarTodayIcon fontSize="small"/>
-                    <div>{date.slice(0, 9)}</div>
+                    <div>{date}</div>
                 </Stack>
             </div>
         <div className="card-title">
