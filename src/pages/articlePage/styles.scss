@@ -1,0 +1,26 @@
+.article-page-layout {
+    padding-top: 100px;
+
+    .card {
+        &-content {
+            padding-left: 75px;
+            padding-right: 75px;
+            padding-bottom: 50px;
+
+            &-title {
+                font-size: 24px;
+                display: flex;
+                justify-content: center;
+                font-family: 'Montserrat', sans-serif;
+                margin-top: 35px;
+                margin-bottom: 50px;
+            }
+        
+            &-description {
+                font-family: 'Montserrat', sans-serif;
+                font-size: 16px;
+                margin-bottom: 35px;
+            }
+        }
+    }
+}
