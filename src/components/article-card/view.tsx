@@ -51,7 +51,7 @@ export const CardArticle: React.FC<{ article: Article, searchRequest: string }> 
                 textToHighlight={shortDescription}
             />
         </div>
-            <Link to={`articles-react-ts/articles/${id}`}>
+            <Link to={`articles/${id}`}>
                 <Stack
                     direction="row"
                     justifyContent="flex-start"
