@@ -3,7 +3,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import { ArticlePage } from './pages/articlePage/view';
 
 const router = createBrowserRouter([
-  { path: '/', element: <HomePage/> },
+  { path: 'articles-react-ts/', element: <HomePage/> },
   { path: '/articles/:articleId', element: <ArticlePage/> }
 ])
 
